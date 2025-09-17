@@ -24,3 +24,12 @@ def get_cache(key):
             del_cache[key]
             return None
         return value
+
+def call_tmdb(path, params=None):
+    base="https://api.themoviedb.org/3"
+    if params is None:params = {}
+    params['api_key'] = TMDB_KEY
+    r= requests.get(f"{base}{path}", params=params, timeout=10)
+    r.raise_for_status()
+    return r.json
+
