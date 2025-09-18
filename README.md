@@ -1,4 +1,7 @@
 # -_frontend_python_-flask-_series_peliculas_microservicios .
+
+<img width="2551" height="1079" alt="image" src="https://github.com/user-attachments/assets/4a460647-3819-4520-be76-5e6ec7f79ddd" />
+
 <img width="203" height="193" alt="image" src="https://github.com/user-attachments/assets/acd0ce8a-579d-497b-a76e-797430d0bb13" />    
 
 <img width="2550" height="1079" alt="image" src="https://github.com/user-attachments/assets/3b7fe2e5-0088-40dc-892f-2d75bccae456" />
