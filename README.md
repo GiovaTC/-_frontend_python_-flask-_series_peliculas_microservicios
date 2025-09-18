@@ -1,4 +1,5 @@
 # -_frontend_python_-flask-_series_peliculas_microservicios .
+<img width="203" height="193" alt="image" src="https://github.com/user-attachments/assets/acd0ce8a-579d-497b-a76e-797430d0bb13" />    
 
 # 🎬 Frontend en Python (Flask) para Series y Películas con Microservicios
 este proyecto implementa una arquitectura **microservicio simple** para consultar películas y series desde APIs públicas .  
