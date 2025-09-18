@@ -5,6 +5,8 @@
 
 <img width="2551" height="1079" alt="image" src="https://github.com/user-attachments/assets/926be751-40e9-422b-b4f3-00be4c320eb1" />
 
+<img width="2554" height="1079" alt="image" src="https://github.com/user-attachments/assets/d1f15d15-736a-438e-814b-e429208e15b1" />
+
 <img width="2552" height="1079" alt="image" src="https://github.com/user-attachments/assets/a4aae67f-4631-4c9b-9132-135d9ecbdb4a" />
 
 # 🎬 Frontend en Python (Flask) para Series y Películas con Microservicios
